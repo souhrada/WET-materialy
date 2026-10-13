@@ -45,7 +45,7 @@ console.log(trpaslici)
 // vypíše ['Šmudla', 'Kejchal', 'Dřímal']
 ```
 
-- vyhozenou položku lze uložit do proměnné `vykopnutyTrpaslik= trpaslici.pop()` a poté s ní můžeme dále pracovat `console.log(vyhozenyTrpaslik)`
+- vyhozenou položku lze uložit do proměnné `vykopnutyTrpaslik= trpaslici.pop()` a poté s ní můžeme dále pracovat `console.log(vykopnutyTrpaslik)`
 
 ## shift
 
@@ -65,7 +65,7 @@ console.log(trpaslici)
 // vypíše ['Kejchal', 'Dřímal', 'Rejpal']
 ```
 
-- vyhozenou položku lze uložit do proměnné `vykopnutyTrpaslik= trpaslici.shift()` a poté s ní můžeme dále pracovat `console.log(vyhozenyTrpaslik)`
+- vyhozenou položku lze uložit do proměnné `vykopnutyTrpaslik= trpaslici.shift()` a poté s ní můžeme dále pracovat `console.log(vykopnutyTrpaslik)`
 
 ## unshift
 
