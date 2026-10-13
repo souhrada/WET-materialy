@@ -54,7 +54,7 @@ const levneVeci = veci.filter((vec) => {
 - pro každou věc v arrayi provede určitý kód
 
 ```jsx
-array.foEach((něco) => {
+array.forEach((něco) => {
 	kód, který chceme asi se provedl
 	pro každou věc
   // např. console.log(něco)
@@ -62,7 +62,7 @@ array.foEach((něco) => {
 ```
 
 ```jsx
-veci.foEach((vec) => {
+veci.forEach((vec) => {
 	console.log(vec.cena)
 	// vypíše všechny ceny
 })
